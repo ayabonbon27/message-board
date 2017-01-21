@@ -3,7 +3,9 @@
 one:
   name: MyString
   body: MyString
+  age: MyString
 
 two:
   name: MyString
   body: MyString
+  age: MyString
